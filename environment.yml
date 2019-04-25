@@ -1,0 +1,14 @@
+name: coffeebreak
+dependencies:
+    - python=3
+    - numpy
+    - scipy
+    - matplotlib
+    - pandas
+    - seaborn
+    - altair
+    - jupyter
+    - sympy
+    - jupyter_contrib_nbextensions
+    - attrs
+    - rise
