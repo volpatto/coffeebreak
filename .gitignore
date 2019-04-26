@@ -1,2 +1,5 @@
 # Dir to ignore
 /notebook/.ipynb_checkpoints/
+
+# Files to ignore
+*.png
